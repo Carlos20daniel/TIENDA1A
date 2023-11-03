@@ -29,8 +29,8 @@
                         @endif
                     @endauth
                 </div>
+                <h1><center>TIENDA VIRTUAL</center></h1>
             @endif
         </div>
-        <h1><center>TIENDA VIRTUAL</center></h1>
     </body>
 </html>
